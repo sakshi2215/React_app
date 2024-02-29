@@ -34,3 +34,5 @@ ReactDOM.render(element, document.querySelector('#root'));
 
 //Day-02
 ReactDOM.render(<App/>, document.querySelector('#root'));
+//index wale ne app ko call kiya , app ne navbar ko call kiya and then
+//finally navbar ka code render ho gya
